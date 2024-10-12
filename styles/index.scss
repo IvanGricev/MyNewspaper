@@ -1,0 +1,43 @@
+.flex{
+    display: flex;
+}
+.grid{
+    display: grid;
+}
+.items-center{
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+.gap-30{
+    gap: 44.4%;
+    margin-left: 2%;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+.pb-1{
+    padding-bottom: 1%;
+}
+.pt-1{
+    padding-top: 1%;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    .header{
+        padding-top: 1%;
+        border: 6px solid black;
+        border-left: 0px;
+        border-right: 0px;
+        border-top: 0px;
+        width: 80%;
+        margin-left: 10%;
+        h1{
+            font-size: 720%;
+            line-height: 1%;
+        }
+    }
+}
